@@ -1,5 +1,7 @@
 # Relevance LLM Agent
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diank/relevance_llm_agent/blob/main/notebooks/demo.ipynb)
+
 **Relevance LLM Agent** — интеллектуальный агент на основе LLM и кастомных ретриверов,
 разработанный для **автоматической оценки релевантности запросов к организациям**.
 
