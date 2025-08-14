@@ -1,0 +1,25 @@
+# Основные библиотеки
+pandas
+tqdm
+numpy
+scikit-learn
+requests
+openai
+tiktoken
+pydantic
+python-dotenv
+
+# LangChain и расширения
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.5
+langchain-community
+
+# LangGraph
+langgraph>=0.0.15
+
+# LlamaIndex
+llama-index
+llama-index-embeddings-huggingface
+llama-index-embeddings-langchain
+
